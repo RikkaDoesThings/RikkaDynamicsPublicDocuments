@@ -34,4 +34,4 @@ To the maximum extent permitted by law, neither the bot owner nor bot administra
 These Terms of Service may be updated at any time. Continued use of the bot after changes means you accept the updated terms.
 
 ## 9. Contact
-For questions or issues about these Terms of Service, contact the bot owner via creating a ticket in https://dsc.gg/rikkadynamics, DM, or the /suggestion command in any applicable server.
+For questions or issues about these Terms of Service, contact the bot owner via creating a ticket in https://dsc.gg/rikkadynamics.
